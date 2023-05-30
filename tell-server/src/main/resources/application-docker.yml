@@ -1,6 +1,0 @@
-spring:
-  datasource:
-    username: root
-    password: killerqueen
-    url: jdbc:mysql://mysql:3306/tell?autoReconnect=true&useUnicode=true&characterEncoding=utf8&serverTimezone=GMT%2B8
-    driver-class-name: com.mysql.cj.jdbc.Driver
